@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: aliceblue;
+  background-color: rgb(6, 81, 243);
+  padding: 15px;
+}
+
+p {
+  border: 1px solid rgb(156, 156, 156);
+  width: 400px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+a {
+  color: white;
+  background-color: rgb(16, 116, 247);
+  text-decoration: none;
+  padding: 10px;
+  display: flex;
+  width: 120px;
+  margin-top: 100px;
+}
